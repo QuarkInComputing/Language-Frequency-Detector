@@ -30,8 +30,6 @@ filepath = ".txt"
 
 # Supported languages
 
-Sure! Here's your list in the requested format:
-
 * English
 * French
 * German
